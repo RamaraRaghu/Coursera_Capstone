@@ -1,2 +1,2 @@
 # Coursera_work
-Various projects/assignments that I have done for coursera courses stored here
+The capstone project for the IBM coursera certification is stored here
